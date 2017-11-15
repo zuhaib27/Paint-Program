@@ -1,2 +1,2 @@
 # Paint-Program
-A program that imitates Paint, created with python. 
+A program that imitates Paint, created with java. 
